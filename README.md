@@ -1,5 +1,5 @@
 # pyshop
-practice shop built with python2 and sqlite
+practice shop built with python 3 and sqlite
 
 followed tutorial by Mosh Hamedani https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
